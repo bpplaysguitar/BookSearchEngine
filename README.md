@@ -55,7 +55,7 @@ git clone https://github.com/bpplaysguitar/bookSearchEngine.git,
 
 ## Usage
 Screenshot of application in use
-![bookSearchEngine](/public/images/screenshot.png)
+![bookSearchEngine](/public/assets/images/screenshot.png)
 <br>
 
       
